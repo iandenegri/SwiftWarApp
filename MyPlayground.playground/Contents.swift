@@ -1,3 +1,5 @@
+// This file was used to practice and try out coding in Swift before jumping into working on coding on the story board.
+
 //: Playground - noun: a place where people can play
 
 import UIKit
